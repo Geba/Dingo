@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="D:\Workspaces\Android_Studio\Dingo\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-416172aad3c44d0a2a745514b9f0ef103dc7861f.jar"
+        jar="D:\Workspaces\Android_Studio\Dingo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="D:\Workspaces\Android_Studio\Dingo\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-2de4d66cd702ee8d477ec1a069232c0c5e8e9575.jar"
+        jar="C:\sdk_android\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="D:\Workspaces\Android_Studio\Dingo\app\build\intermediates\pre-dexed\debug\classes-b2d44d4cccc67ba5ff8df7a6c83628e06d23134c.jar"
+        jar="D:\Workspaces\Android_Studio\Dingo\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="D:\Workspaces\Android_Studio\Dingo\app\build\intermediates\pre-dexed\debug\classes-e2006ef62dd1f813ee3541e7d046e1461023334b.jar"
+        jar="D:\Workspaces\Android_Studio\Dingo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef"/>
+
+</pre-dex-items>
